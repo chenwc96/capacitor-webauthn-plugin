@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Capacitor (2.4.8):
+    - CapacitorCordova
+  - CapacitorCordova (2.4.8)
+  - CryptoSwift (1.3.8)
+  - EllipticCurveKeyPair (2.0)
+  - KeychainAccess (4.2.2)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - SwiftyBeaver (1.9.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - "Capacitor (from `../node_modules/@capacitor/ios`)"
+  - "CapacitorCordova (from `../node_modules/@capacitor/ios`)"
+  - CryptoSwift (~> 1.3.8)
+  - EllipticCurveKeyPair (~> 2.0)
+  - KeychainAccess (~> 4.2.1)
+  - PromiseKit (~> 6.13.1)
+  - SwiftyBeaver (~> 1.9.5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - EllipticCurveKeyPair
+    - KeychainAccess
+    - PromiseKit
+    - SwiftyBeaver
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../node_modules/@capacitor/ios"
+  CapacitorCordova:
+    :path: "../node_modules/@capacitor/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Capacitor: 36f12802b85f18210037f92e5272a0e972f8eb1f
+  CapacitorCordova: 258780f03814ecff8f39bb99c354113225df6a4a
+  CryptoSwift: 01b0f0cba1d5c212e5a335ff6c054fb75a204f00
+  EllipticCurveKeyPair: 8c69e5238a6e47243a10a48fbd41dfb19110b22e
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  SwiftyBeaver: 84069991dd5dca07d7069100985badaca7f0ce82
+
+PODFILE CHECKSUM: 191fbfda4b2f0dcac49ffcc7bf08436e3a6ae607
+
+COCOAPODS: 1.10.1

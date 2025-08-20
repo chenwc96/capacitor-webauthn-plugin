@@ -1,0 +1,4 @@
+<resources>
+    <string name="cancelled">Cancelled</string>
+    <string name="biometrics_enabled">Biometrics has been enabled</string>
+</resources>
